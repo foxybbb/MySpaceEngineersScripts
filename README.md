@@ -1,6 +1,6 @@
 # MySpaceEngineersScripts
 My experience coding in game Space Engineers
-<img src="https://e7.pngegg.com/pngimages/327/920/png-clipart-space-engineers-medieval-engineers-engineering-outer-space-space-survival-simulator-3d-others-text-logo.png" data-canonical-src="https://e7.pngegg.com/pngimages/327/920/png-clipart-space-engineers-medieval-engineers-engineering-outer-space-space-survival-simulator-3d-others-text-logo.png" width="200" height="400" />
+<img src="https://e7.pngegg.com/pngimages/327/920/png-clipart-space-engineers-medieval-engineers-engineering-outer-space-space-survival-simulator-3d-others-text-logo.png" width="200" height="300" />
 
 
 
