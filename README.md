@@ -1,7 +1,7 @@
 # MySpaceEngineersScripts
 My experience coding in game Space Engineers
 
-![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.gamespress.com%2Fru%2FSpace-Engineers-Update-1199---Heavy-Industry&psig=AOvVaw3IoI_E9tsWrnRJSB3akCVj&ust=1632392780308000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCMi3rpGvkvMCFQAAAAAdAAAAABAK)
+![alt text](https://e7.pngegg.com/pngimages/976/668/png-clipart-space-engineers-medieval-engineers-rust-engineering-xbox-one-others-miscellaneous-game.png)
 
 
 
